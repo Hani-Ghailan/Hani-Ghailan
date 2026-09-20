@@ -149,3 +149,45 @@ My goal is to continue improving my backend development skills and build reliabl
 Feel free to explore my repositories and connect with me.
 
 ⭐ Thanks for visiting my profile!
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- C#
+- Python
+- C++
+- Java
+
+### 🌐 Backend Development
+- .NET
+- ASP.NET Core
+- ASP.NET Core Web API
+- REST APIs
+- Entity Framework Core
+- MVC
+- CRUD Operations
+
+### 🗄️ Databases
+- SQL Server
+- SQLite
+- SQL
+
+### 🔐 Authentication & Security
+- JWT Authentication
+- Role-Based Authorization
+- Authentication & Authorization
+
+### 🧰 Tools
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- Swagger
+- IIS
+
+### 📚 Concepts
+- Object-Oriented Programming (OOP)
+- Clean Code
+- API Development
+- Database Design
+- Debugging
+- Problem Solving
