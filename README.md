@@ -105,7 +105,7 @@ A backend Web API project built with ASP.NET Core.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hani-ghailan-b0014b3aa) 
-- 💻 GitHub: [Hani-Ghailan](https://github.com/Hani-Ghailan)
+- 💻 GitHub: [Hani-Ghailan](https://github.com/Hani-Ghialan) 
 
 ---
 
