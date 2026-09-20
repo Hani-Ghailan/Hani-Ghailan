@@ -1,4 +1,4 @@
-# Hi, I'm Hani Ghailan 👋
+# Hi, I'm Hani-Ghailan 👋
 
 ### 💻 Programmer | C# & .NET Backend Developer
 
